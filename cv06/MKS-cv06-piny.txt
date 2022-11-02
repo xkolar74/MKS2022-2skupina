@@ -1,0 +1,16 @@
+PA4  - LED1    - Output
+PB0  - LED2    - Output
+PC1  - S1      - Input (pull-up)
+PC0  - S2      - Input (pull-up)
+PA10 - DQ      - Output Open Drain!
+PB3  - SCT_CLK - Output
+PB4  - SCT_SDI - Output
+PB5  - SCT_NLA - Output
+PB10 - SCT_NOE - Output
+
+ADC:
+  IN1
+  Resolution: 10-bit
+  Continuous conversion: Enabled
+  Overrun behaviour: Overrun data overwritten
+  
